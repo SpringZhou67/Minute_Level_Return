@@ -1,4 +1,4 @@
-Unitial tasks are:
+Tasks are:
 
 1. Build a standard daily returns panel based on CRSP with the usual filters. This data will be our benchmark for comparison.
 2. Report summary stats for this data and see it makes sense.
